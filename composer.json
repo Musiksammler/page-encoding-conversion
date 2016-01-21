@@ -1,0 +1,17 @@
+{
+  "name": "musiksammler/page-encoding-conversion",
+  "description": "Helper object to move a website step by step from an old encoding to a new encoding (e.g. ISO-8859-1 to UTF-8)",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Carsten Henkelmann",
+      "email": "carsten.henkelmann@musik-sammler.de",
+      "homepage": "https://www.musik-sammler.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "neitanod/forceutf8": "dev-master"
+  }
+}
